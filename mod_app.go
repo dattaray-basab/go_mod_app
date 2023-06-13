@@ -11,5 +11,5 @@ func main() {
 
 	pkg1.F1()
 	pkg2.F2()
-	pkg2.F2_1()
+	pkg2.G2()
 }
